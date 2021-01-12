@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h3 align="center">Lecturer in Universitas Semarang, Researcher in Romi Satria Wahono Institute, and Member of Intelligent Systems Research Group</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jokopratama" alt="jokopratama" /> </p>
-<p align="center">
+
 - 🥘 **Eat**
 
 - 🛌 **Sleep**
@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 - 🛀  **Bath**
 
 - 🔁 **Repeat**
-</p>
 
 <!--<p align="left"><img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></p>-->
 
