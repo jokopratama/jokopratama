@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Joko Pratama</h1>
-<h3 align="center">Lecturer in Universitas Semarang, Researcher in Romi Satria Wahono Institute, and Member of Intelligent Systems Research Group</h3>
+<!--<h3 align="center">Lecturer in Universitas Semarang, Researcher in Romi Satria Wahono Institute, and Member of Intelligent Systems Research Group</h3>-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jokopratama" alt="jokopratama" /> </p>
 
