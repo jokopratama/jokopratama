@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Joko Pratama</h1>
-<!--<h3 align="center">Lecturer in Universitas Semarang, Researcher in Romi Satria Wahono Institute, and Member of Intelligent Systems Research Group</h3>-->
+<h3 align="center">Ordinary People Who Are Learning Basic Programming Languages</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jokopratama" alt="jokopratama" /> </p>
 
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jokopratama&layout=compact&hide=html" alt="jokopratama" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jokopratama&show_icons=true" alt="jokosuntoro" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=midnight-purple_icons=true" alt="jokopratama" /></p> 
 
 <!--<p align="center">
 <a href="https://twitter.com/jokosuntoro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jokosuntoro" height="30" width="30" /></a>
